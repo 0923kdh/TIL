@@ -12,21 +12,22 @@
 
 ---
 ## 📗 Computer Science
-* ✔️ DataBase
+✔️ DataBase
 
-* ✔️ Network
+✔️ Network
 
-* ✔️ Operating System
+✔️ Operating System
 
 ---
 ## 📗 Framework
-* ✔️ Spring
+✔️ Spring
 
 ---
 ## 📗 Language
-* ✔️ Java
+✔️ Java
 
-* ✔️ C++
+✔️ C++
 
 ---
 ## 📗 Problem Solving
+✔️ [ETC](ETC/ProblemSolving_ETC.md)
