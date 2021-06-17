@@ -16,7 +16,7 @@
 
 ✔️ Network
 
-✔️ Operating System
+✔️ [OperatingSystem](OperatingSystem/ComputerScience_OperatingSystem.md)
 
 ---
 ## 📗 Framework
