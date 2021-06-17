@@ -1,5 +1,5 @@
 # Today I Learned!(TIL!) 🍀
-[![Blog](https://img.shields.io/badge/Blog-daisy.day()-yellow.svg)](https://daisy-day.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-daisy.day()-green.svg)](https://daisy-day.tistory.com/)
 
 - 하루하루 공부한 내용을 정리하여 올립니다.
 - Wiki 형태로 관리합니다.
@@ -8,10 +8,10 @@
 ## Index(A-Z)
 
 ---
-## ✅ Algorithm
+## 📗 Algorithm
 
 ---
-## ✅ Computer Science
+## 📗 Computer Science
 * ✔️ DataBase
 
 * ✔️ Network
@@ -19,14 +19,14 @@
 * ✔️ Operating System
 
 ---
-## ✅ Framework
+## 📗 Framework
 * ✔️ Spring
 
 ---
-## ✅ Language
+## 📗 Language
 * ✔️ Java
 
 * ✔️ C++
 
 ---
-## ✅ Problem Solving
+## 📗 Problem Solving
