@@ -30,5 +30,5 @@
 
 ---
 ## 📗 Problem Solving
-✔️ [BinarySearch](BinarySearch/ProblemSolving_BinarySearch.md)
+✔️ [BinarySearch](BinarySearch/ProblemSolving_BinarySearch.md)  
 ✔️ [ETC](ETC/ProblemSolving_ETC.md)
