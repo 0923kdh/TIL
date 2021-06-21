@@ -9,3 +9,7 @@
 
 ## [BOJ 1520 내리막 길](https://daisy-day.tistory.com/159)
 * 문제에서 주어진 정점까지 도달할 수 있는 경로의 개수를 DFS 와 DP를 이용하여 출력하는 문제 입니다.
+
+## [BOJ 12015 가장 긴 증가하는 부분 수열2](https://daisy-day.tistory.com/162)
+* 이분탐색(Lower_bound)를 활용하여 Longest Increasing Subsequence(LIS)를 구하는 문제입니다.
+
