@@ -9,6 +9,7 @@
 
 ---
 ## 📗 Algorithm
+✔️ [Devide & Conquer](https://daisy-day.tistory.com/161)
 
 ---
 ## 📗 Computer Science
@@ -30,5 +31,6 @@
 
 ---
 ## 📗 Problem Solving
-✔️ [BinarySearch](BinarySearch/ProblemSolving_BinarySearch.md)  
+✔️ [BinarySearch](BinarySearch/ProblemSolving_BinarySearch.md)
+
 ✔️ [ETC](ETC/ProblemSolving_ETC.md)
