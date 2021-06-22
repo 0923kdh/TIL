@@ -33,4 +33,6 @@
 ## 📗 Problem Solving
 ✔️ [BinarySearch](BinarySearch/ProblemSolving_BinarySearch.md)
 
+✔️ [Simulation](Simulation/ProblemSolving_Simulation.md)
+
 ✔️ [ETC](ETC/ProblemSolving_ETC.md)
