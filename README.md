@@ -11,6 +11,8 @@
 ## 📗 Algorithm
 ✔️ [Devide & Conquer](https://daisy-day.tistory.com/161)
 
+✔️ [Fenwick Tree](https://daisy-day.tistory.com/148)
+
 ---
 ## 📗 Computer Science
 ✔️ DataBase
