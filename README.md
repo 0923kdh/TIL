@@ -1,4 +1,4 @@
-# Today I Learned!(TIL!) 🍀
+# Today I Learned!(TIL!) 🌱
 [![Blog](https://img.shields.io/badge/Blog-daisy.day()-green.svg)](https://daisy-day.tistory.com/)
 
 - 하루하루 공부한 내용을 정리하여 올립니다.
