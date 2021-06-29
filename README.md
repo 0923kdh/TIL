@@ -37,6 +37,8 @@
 
 ✔️ [BruteForce](BruteForce/ProblemSolving_BruteForce.md)
 
+✔️ [DynamicProgramming](DynamicProgramming/ProblemSolving_DynamicProgramming.md)
+
 ✔️ [Simulation](Simulation/ProblemSolving_Simulation.md)
 
 ✔️ [ETC](ETC/ProblemSolving_ETC.md)
