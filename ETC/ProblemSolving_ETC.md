@@ -13,3 +13,5 @@
 ## [BOJ 12015 가장 긴 증가하는 부분 수열2](https://daisy-day.tistory.com/162)
 * 이분탐색(Lower_bound)를 활용하여 Longest Increasing Subsequence(LIS)를 구하는 문제입니다.
 
+## [프로그래머스 순위검색](https://daisy-day.tistory.com/178)
+* 비트마스킹으로 지원자들의 정보를 조합하여 쿼리를 만들고, 점수를 벡터에 담습니다. 문제에서 주어진 쿼리에 해당하는 값을 이분탐색(Lower_bound)하여 문제에서 요구하는 정답을 도출합니다.
