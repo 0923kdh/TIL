@@ -5,7 +5,7 @@
 - Wiki 형태로 관리합니다.
 
 ---
-# Philosophy (개발에 대한 제 철학을 작성합니다. 꼭 읽어주세요!)
+# Philosophy
 - [Philosophy](Philosophy/Philosophy_Philosophy.md)
 
 ---
