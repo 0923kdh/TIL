@@ -4,11 +4,14 @@
 - 코딩 테스트에서 사용 출제 빈도가 매우 낮은 알고리즘을 올립니다.
 
 ---
+## [BOJ 1520 내리막 길](https://daisy-day.tistory.com/159)
+* 문제에서 주어진 정점까지 도달할 수 있는 경로의 개수를 DFS 와 DP를 이용하여 출력하는 문제 입니다.
+
 ## [BOJ 1939 중량제한](https://daisy-day.tistory.com/153)
 * 이분탐색을 이용하여 최소 중량 Mid값을 정하고, BFS 또는 DFS를 이용하여 맵을 탐색하면서 문제에서 주어진 정점까지 도달할 수 있는지 도달 가능한지 확인하는 문제입니다.
 
-## [BOJ 1520 내리막 길](https://daisy-day.tistory.com/159)
-* 문제에서 주어진 정점까지 도달할 수 있는 경로의 개수를 DFS 와 DP를 이용하여 출력하는 문제 입니다.
+## [BOJ 2533 사회망 서비스(SNS)](https://daisy-day.tistory.com/183)
+*  Tree를 순회하면서 해당 정점이 얼리어답터인지 아닌지에 따라 최소 얼리어답터를 카운트 하는 Tree DP 문제입니다.
 
 ## [BOJ 12015 가장 긴 증가하는 부분 수열2](https://daisy-day.tistory.com/162)
 * 이분탐색(Lower_bound)를 활용하여 Longest Increasing Subsequence(LIS)를 구하는 문제입니다.
