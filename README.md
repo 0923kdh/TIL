@@ -35,7 +35,7 @@
 
 ---
 ## 📗 Language
-✔️ Java
+✔️ [Java](Java/Language_Java.md)
 
 ✔️ C++
 
