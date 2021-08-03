@@ -5,8 +5,6 @@
 
 ## [StringBuilder 와 StringBuffer](https://daisy-day.tistory.com/192)
 
-## [StringBuilder 와 StringBuffer](https://daisy-day.tistory.com/192)
-
 ## [Object Class](https://daisy-day.tistory.com/193)
 
 ## [OOP(Object-Oriented Programming) 란](https://daisy-day.tistory.com/194)
