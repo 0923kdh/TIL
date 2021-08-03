@@ -23,10 +23,6 @@
 
 ---
 ## 📗 Computer Science
-✔️ DataBase
-
-✔️ Network
-
 ✔️ [OperatingSystem](OperatingSystem/ComputerScience_OperatingSystem.md)
 
 ---
@@ -36,8 +32,6 @@
 ---
 ## 📗 Language
 ✔️ [Java](Java/Language_Java.md)
-
-✔️ C++
 
 ---
 ## 📗 Problem Solving
