@@ -7,6 +7,9 @@
 ## [BOJ 1520 내리막 길](https://daisy-day.tistory.com/159)
 * 문제에서 주어진 정점까지 도달할 수 있는 경로의 개수를 DFS 와 DP를 이용하여 출력하는 문제 입니다.
 
+## [BOJ 1520 가운데를 말해요](https://daisy-day.tistory.com/199)
+* maxHeap, minHeap 을 이용하여 여러개의 숫자들의 가운데 값을 찾는 문제입니다.ㄴ
+
 ## [BOJ 1939 중량제한](https://daisy-day.tistory.com/153)
 * 이분탐색을 이용하여 최소 중량 Mid값을 정하고, BFS 또는 DFS를 이용하여 맵을 탐색하면서 문제에서 주어진 정점까지 도달할 수 있는지 도달 가능한지 확인하는 문제입니다.
 
