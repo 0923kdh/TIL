@@ -23,7 +23,7 @@
 
 ---
 ## 📗 Design Pattern
-✔️ [DesignPattern](Design Pattern/DesignPattern_DesignPattern.md)
+✔️ [DesignPattern](DesignPattern/DesignPattern_DesignPattern.md)
 
 ---
 ## 📗 Framework
