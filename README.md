@@ -22,6 +22,10 @@
 ✔️ [OperatingSystem](OperatingSystem/ComputerScience_OperatingSystem.md)
 
 ---
+## 📗 Design Pattern
+✔️ [DesignPattern](Design Pattern/DesignPattern_DesignPattern.md)
+
+---
 ## 📗 Framework
 ✔️ [Spring](Spring/Framework_Spring.md)
 
